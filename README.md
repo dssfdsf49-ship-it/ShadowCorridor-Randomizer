@@ -79,6 +79,7 @@ Steam 게임 「그림자 복도(影廊 -Shadow Corridor-)」용 **무료 비공
 
 - `…-with-answer-key.zip`: 처음 받는 분용 전체 배포본. 이름의 with-answer-key는 맵을 빨리 만들 때 검사에 쓰는 자료가 함께 들어 있다는 뜻입니다.
 - `…-update.zip`: 이미 쓰는 분용 업데이트 파일.
+- 처음 받는 분 바로가기: v0.35.0 전체 배포본 → https://github.com/dssfdsf49-ship-it/ShadowCorridor-Randomizer/releases/tag/v0.35.0 (받은 뒤 앱의 「업데이트」 탭으로 최신 판까지)
 
 필요한 것: Windows 10·11(64비트), Steam판 그림자 복도, 여유 공간 20GB 이상. Python·.NET은 따로 설치하지 않아도 됩니다. DLC 외연은 지원하지 않습니다.
 
